@@ -18,6 +18,4 @@ Then you'll need to open ODBC Data source Administrator(32/64-bit):
 4. Click ok and finish the set-up.
 5. Now you are good to go.
 
-## How it Works
-Just double click on the library.jar to launch the application. Add the user and passwords by modifying the database file library.mdb.
-Password for the file is "akshay".
+
